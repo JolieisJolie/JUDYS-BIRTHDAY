@@ -1,0 +1,25 @@
+.title
+{
+  color: Black;
+  border: solid 10px pink;
+}
+.paragraph
+{
+  color: purple;
+}
+.news
+{
+  color: black;
+  border: solid 10px pink;
+}
+
+img
+{
+ border-radius: 60px;
+ border: solid 2px pink;
+}
+
+h2
+{ 
+  color: pink;
+}
